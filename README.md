@@ -1,6 +1,4 @@
-Here’s a structured README template for your "simple transformer" GitHub repository. You can customize it further to fit your project's details.
 
----
 
 # Simple Transformer
 
